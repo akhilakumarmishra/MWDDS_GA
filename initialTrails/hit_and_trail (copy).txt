@@ -1,0 +1,640 @@
+H1 :  397.511   397   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11303
+H1 :  410.513   807   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :11063
+H1 :  433.070   1240   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11396
+H1 :  399.427   1639   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_3.txt :10982
+H1 :  410.773   2049   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_4.txt :11208
+H1 :  425.787   2474   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_5.txt :10627
+H1 :  413.482   2887   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_6.txt :11187
+H1 :  411.411   3298   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_7.txt :10927
+H1 :  417.657   3715   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_8.txt :10703
+H1 :  416.401   416   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_9.txt :11304
+H1 :  427.464   427   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_9.txt :11326
+
+
+H1 :  388.268   388   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11343
+
+H1 :  197.777   197   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11323
+
+H1 :  195.719   195   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11285
+H1 :  189.089   384   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :11016
+H1 :  198.276   582   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11414
+H1 :  192.384   774   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_3.txt :11004
+H1 :  202.893   976   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_4.txt :11144
+H1 :  210.536   1186   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_5.txt :10604
+H1 :  206.802   1392   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_6.txt :11188
+H1 :  206.778   1598   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_7.txt :10896
+H1 :  223.518   1821   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_8.txt :10714
+H1 :  211.595   2032   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_9.txt :11294   11055.900000
+
+
+
+
+H1 :  257.750   257   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11306
+H1 :  259.325   516   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :11050
+
+H1 :  703.832   703   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11775
+H1 :  716.992   1419   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :11616
+H1 :  732.438   2151   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11844
+H1 :  703.944   2854   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_3.txt :11448
+H1 :  703.928   3557   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_4.txt :11607
+H1 :  727.801   4284   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_5.txt :11102
+H1 :  713.881   4997   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_6.txt :11644
+H1 :  718.946   5715   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_7.txt :11353
+H1 :  737.577   6452   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_8.txt :11110
+H1 :  719.430   7171   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_9.txt :11711   11521.000000
+H1 :  8.557   8   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11779
+H1 :  444.307   444   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11299
+H1 :  432.377   432   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11443
+H1 :  470.683   470   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11282
+H1 :  472.947   472   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11282
+H1 :  466.523   466   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11282
+H1 :  242.668   242   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11284
+H1 :  197.386   197   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11284
+H1 :  481.070   481   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11282
+
+########################best output ##################
+
+
+H1 :  452.238   452   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11282
+H1 :  486.924   938   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :11084
+H1 :  523.036   1461   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11346
+H1 :  454.258   1915   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_3.txt :10970
+H1 :  506.752   2421   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_4.txt :11129
+H1 :  529.764   2950   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_5.txt :10640
+H1 :  496.508   3446   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_6.txt :11156
+H1 :  506.793   3952   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_7.txt :10881
+H1 :  516.268   4468   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_8.txt :10709
+H1 :  482.843   4950   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_9.txt :11269   11046.600000
+
+
+
+H2 :  405.995   405   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11307
+H2 :  354.778   759   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10965
+H2 :  375.271   1134   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11290
+H2 :  390.426   1524   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_3.txt :10952
+H2 :  378.975   1902   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_4.txt :11137
+H2 :  377.591   2279   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_5.txt :10600
+H2 :  384.113   2663   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_6.txt :11172
+H2 :  379.836   3042   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_7.txt :10889
+H2 :  394.569   3436   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_8.txt :10632
+H2 :  405.364   3841   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_9.txt :11273   11021.700000
+
+
+PPh =0.9			minimize_prob=NO;
+init_pop_prob=0.1 
+pop_size=200;				MAX_GEN=30000;
+Pc=0.9  prob_select=0.8  Pm=0.005
+
+perc_value=NO similar_set_max_size=20;
+H2 :  357.349   357   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11282
+H2 :  362.003   719   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10992
+H2 :  417.834   1136   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11336
+H2 :  355.274   1491   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_3.txt :10954
+H2 :  402.851   1893   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_4.txt :11083
+H2 :  432.052   2325   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_5.txt :10601
+H2 :  406.603   2731   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_6.txt :11116
+H2 :  398.231   3129   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_7.txt :10857
+H2 :  439.053   3568   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_8.txt :10670
+H2 :  370.816   3938   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_9.txt :11301   11019.200000
+
+
+
+
+
+
+
+
+
+H1 :  468.450   468   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11299
+H1 :  443.019   911   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :11110
+H1 :  461.753   1372   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11366
+H1 :  438.439   1810   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_3.txt :10960
+H1 :  416.929   2226   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_4.txt :11098
+H1 :  416.682   2642   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_5.txt :10604
+H1 :  435.534   3077   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_6.txt :11221
+H1 :  423.770   3500   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_7.txt :10888
+H1 :  440.165   3940   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_8.txt :10676
+H1 :  456.030   4396   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_9.txt :11336   11055.800000
+H2 :  371.767   371   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11282
+H2 :  384.584   755   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10983
+H2 :  407.703   1162   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11323
+H2 :  371.858   1533   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_3.txt :10916
+H2 :  404.672   1937   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_4.txt :11056
+H2 :  400.634   2337   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_5.txt :10581
+H2 :  403.296   2740   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_6.txt :11143
+H2 :  430.932   3170   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_7.txt :10891
+H2 :  411.338   3581   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_8.txt :10676
+H2 :  389.780   3970   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_9.txt :11287   11013.800000
+H3 :  543.039   543   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11310
+H3 :  534.731   1077   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :11001
+H3 :  578.356   1655   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11337
+H3 :  532.461   2187   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_3.txt :10944
+H3 :  585.365   2772   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_4.txt :11088
+H3 :  582.099   3354   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_5.txt :10566
+H3 :  597.294   3951   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_6.txt :11131
+H3 :  594.056   4545   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_7.txt :10858
+H3 :  570.593   5115   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_8.txt :10674
+H3 :  563.880   5678   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_9.txt :11252   11016.100000
+H4 :  289.219   289   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11343
+H4 :  313.388   602   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10990
+H4 :  336.933   938   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11370
+H4 :  289.674   1227   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_3.txt :11006
+H4 :  320.225   1547   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_4.txt :11095
+H4 :  346.392   1893   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_5.txt :10616
+H4 :  327.079   2220   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_6.txt :11157
+H4 :  365.114   2585   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_7.txt :10918
+H4 :  369.311   2954   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_8.txt :10667
+H4 :  320.768   3274   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_9.txt :11283   11044.500000
+
+
+
+H3 :  579.836   579   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11310
+H3 :  522.659   1101   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :11020
+H3 :  507.767   1608   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11339
+H3 :  537.331   2145   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_3.txt :10947
+H3 :  554.357   2699   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_4.txt :11074
+H3 :  550.343   3249   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_5.txt :10603
+H3 :  556.471   3805   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_6.txt :11162
+H3 :  546.188   4351   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_7.txt :10878
+H3 :  550.549   4901   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_8.txt :10686
+H3 :  559.293   5460   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_9.txt :11211   11023.000000
+H2 :  270.173   270   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11287
+H2 :  275.628   545   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10991
+H2 :  277.676   822   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11305
+H3 :  237.740   1059   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_3.txt :10933
+H3 :  268.868   1327   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_4.txt :11087
+H3 :  277.853   1604   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_5.txt :10583
+H3 :  275.966   1879   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_6.txt :11145
+H3 :  281.172   2160   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_7.txt :10943
+H3 :  296.318   2456   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_8.txt :10695
+H3 :  249.071   2705   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_9.txt :11224   11019.300000
+H3 :  397.034   397   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11282
+H3 :  365.499   762   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10983
+H3 :  372.411   1134   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11323
+H3 :  351.963   1485   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_3.txt :10916
+H3 :  363.912   1848   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_4.txt :11056
+H3 :  368.865   2216   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_5.txt :10581
+H3 :  367.693   2583   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_6.txt :11143
+H3 :  374.054   2957   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_7.txt :10891
+H3 :  383.280   3340   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_8.txt :10676
+H3 :  405.991   3745   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_9.txt :11287   11013.800000
+
+2 point crossover 
+H3 :  323.226   323   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11256
+H3 :  287.009   610   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10953
+H3 :  324.468   934   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11300
+H3 :  306.370   1240   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_3.txt :10910
+H3 :  311.794   1551   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_4.txt :11039
+H3 :  316.570   1867   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_5.txt :10583
+H3 :  301.849   2168   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_6.txt :11122
+H3 :  307.669   2475   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_7.txt :10859
+H3 :  322.314   2797   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_8.txt :10620
+H3 :  320.589   3117   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_9.txt :11247   10988.900000 
+
+H2 :  341.649   341   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11256
+H2 :  327.832   668   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10945
+H2 :  349.141   1017   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11326
+H2 :  299.771   1316   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_3.txt :10907
+H2 :  337.828   1653   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_4.txt :11041
+H2 :  334.163   1987   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_5.txt :10581
+H2 :  330.869   2317   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_6.txt :11128
+H2 :  372.569   2689   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_7.txt :10847
+H2 :  370.761   3059   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_8.txt :10646
+H2 :  326.843   3385   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_9.txt :11221   10989.800000
+H2 :  378.900   378   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11344
+H2 :  393.869   393   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11344
+
+H2 :  324.270   324   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11273
+H2 :  336.095   660   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10971
+H2 :  356.888   1016   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11305
+H2 :  316.405   1332   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_3.txt :10934
+H2 :  357.762   1689   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_4.txt :11078
+H2 :  343.058   2032   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_5.txt :10592
+H2 :  328.497   2360   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_6.txt :11144
+H2 :  336.128   2696   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_7.txt :10848
+H2 :  381.779   3077   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_8.txt :10637
+H2 :  318.498   3395   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_9.txt :11230   11001.200000
+
+
+H2 :  288.102   288   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11238
+H2 :  307.501   595   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10946
+H2 :  304.842   899   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11299
+H2 :  275.743   1174   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_3.txt :10891
+H2 :  309.721   1483   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_4.txt :11055
+H2 :  320.581   1803   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_5.txt :10561
+H2 :  327.430   2130   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_6.txt :11120
+H2 :  329.049   2459   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_7.txt :10848
+H2 :  337.741   2796   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_8.txt :10616
+H2 :  301.760   3097   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_9.txt :11223   10979.700000 (current active best )
+H2 :  327.390   327   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11238
+H2 :  300.432   627   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10946
+H2 :  296.964   296   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11238
+
+5-point crossover
+H2 :  326.103   326   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11273
+H2 :  287.307   613   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10940
+H2 :  250.466   863   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11306
+H2 :  324.138   1187   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_3.txt :10933
+H2 :  241.557   1428   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_4.txt :11059
+H2 :  295.975   1723   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_5.txt :10571
+H2 :  300.349   2023   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_6.txt :11100
+H2 :  315.097   2338   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_7.txt :10854
+H2 :  322.470   2660   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_8.txt :10627
+H2 :  358.343   3018   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_9.txt :11247   10991.000000
+
+H2 :  329.001   329   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11238
+H2 :  283.692   612   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10946
+H2 :  282.131   894   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11299
+H2 :  310.967   1204   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_3.txt :10891
+H2 :  295.788   295   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11248
+H2 :  307.542   602   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10963
+H2 :  293.963   293   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11271
+H2 :  297.182   297   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11250
+H2 :  322.715   619   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10943
+H2 :  332.546   332   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11235
+H2 :  306.388   638   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10954
+H2 :  311.705   949   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11309
+
+
+H2 :  286.058   286   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11221
+H2 :  321.031   607   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10950
+H2 :  331.815   938   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11307
+H2 :  305.322   305   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11252
+H2 :  294.032   599   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10964
+H2 :  303.146   303   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11252
+H2 :  290.777   290   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11235
+H2 :  282.657   572   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10954
+H2 :  302.803   874   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11309
+H2 :  273.308   1147   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_3.txt :10901
+H2 :  289.872   1436   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_4.txt :11036
+H2 :  309.633   1745   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_5.txt :10594
+H2 :  297.678   2042   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_6.txt :11101
+H2 :  334.417   2376   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_7.txt :10857
+H2 :  331.933   2707   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_8.txt :10627
+H2 :  297.349   3004   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_9.txt :11242   10985.600000
+H2 :  343.547   343   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11238
+H2 :  345.386   688   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10946
+H2 :  346.464   1034   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11299
+H2 :  343.559   1377   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_3.txt :10891
+H2 :  351.049   1728   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_4.txt :11055
+H2 :  361.950   2089   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_5.txt :10561
+H2 :  314.857   314   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11235
+H2 :  311.983   625   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10954
+H2 :  310.236   310   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10966
+H2 :  279.632   279   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11285
+H2 :  371.277   371   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11371
+H2 :  364.615   735   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :11006
+
+H2 :  319.218   319   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11238
+H2 :  318.646   637   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10946
+H2 :  312.762   949   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11299
+H2 :  310.422   1259   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_3.txt :10891
+H2 :  326.356   326   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11251
+
+H2 :  293.453   293   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11238
+H2 :  292.699   585   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10946
+H2 :  294.623   879   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11299
+H2 :  300.122   1179   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_3.txt :10891
+H2 :  303.681   1482   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_4.txt :11055
+H2 :  311.498   1793   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_5.txt :10561
+H2 :  308.038   2101   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_6.txt :11120
+H2 :  303.282   2404   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_7.txt :10848
+H2 :  318.524   2722   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_8.txt :10616
+H2 :  302.045   3024   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_9.txt :11223   10979.700000
+H2 :  324.062   324   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11293
+H2 :  325.832   649   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10940
+H2 :  335.667   984   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11315
+H2 :  329.064   1313   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_3.txt :10910
+H2 :  332.862   1645   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_4.txt :11035
+H2 :  346.312   1991   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_5.txt :10590
+H2 :  313.577   2304   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_6.txt :11106
+H2 :  322.443   2626   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_7.txt :10852
+H2 :  346.352   2972   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_8.txt :10627
+H2 :  322.286   3294   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_9.txt :11243   10991.100000
+H2 :  607.528   607   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11237
+H2 :  672.383   1279   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10966
+H2 :  652.156   1931   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11326
+H2 :  637.271   2568   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_3.txt :10896
+H2 :  43.456   43   /home/akhil/Documents/project/MWDDS_data/T1/50/all/Problem.dat_50_50_0.txt :713
+H2 :  43.805   43   /home/akhil/Documents/project/MWDDS_data/T1/50/all/Problem.dat_50_50_0.txt :713
+H2 :  3148.356   3148   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11193
+H2 :  884.907   884   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11198
+H2 :  810.683   810   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11189
+H2 :  1004.902   1004   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11228
+
+
+
+H2 :  3.791   3   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11487
+H2 :  3.783   6   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :11190
+H2 :  3.065   9   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11492
+H2 :  3.911   12   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_3.txt :11190
+H2 :  3.136   15   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_4.txt :11237
+H2 :  2.699   17   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_5.txt :10748
+H2 :  4.028   21   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_6.txt :11341
+H2 :  4.262   25   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_7.txt :11056
+H2 :  3.187   28   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_8.txt :10831
+H2 :  3.492   31   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_9.txt :11515   11208.700000
+H2 :  3.826   3   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11487
+H2 :  3.773   6   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :11190
+H2 :  3.127   9   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11492
+H2 :  3.954   12   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_3.txt :11190
+H2 :  3.184   15   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_4.txt :11237
+H2 :  2.768   17   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_5.txt :10748
+H2 :  4.125   21   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_6.txt :11341
+H2 :  4.333   25   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_7.txt :11056
+H2 :  3.195   28   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_8.txt :10831
+H2 :  3.522   31   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_9.txt :11515   11208.700000
+H2 :  4.122   4   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11487
+H2 :  10.329   10   /home/akhil/Documents/project/MWDDS_data/T1/50/all/Problem.dat_50_50_0.txt :713
+H2 :  4.056   14   /home/akhil/Documents/project/MWDDS_data/T1/50/all/Problem.dat_50_50_1.txt :809
+H2 :  5.044   19   /home/akhil/Documents/project/MWDDS_data/T1/50/all/Problem.dat_50_50_2.txt :751
+H2 :  8.010   27   /home/akhil/Documents/project/MWDDS_data/T1/50/all/Problem.dat_50_50_3.txt :771
+H2 :  4.992   31   /home/akhil/Documents/project/MWDDS_data/T1/50/all/Problem.dat_50_50_4.txt :702
+H2 :  5.553   36   /home/akhil/Documents/project/MWDDS_data/T1/50/all/Problem.dat_50_50_5.txt :810
+H2 :  12.313   48   /home/akhil/Documents/project/MWDDS_data/T1/50/all/Problem.dat_50_50_6.txt :640
+H2 :  4.754   52   /home/akhil/Documents/project/MWDDS_data/T1/50/all/Problem.dat_50_50_7.txt :754
+H2 :  4.721   56   /home/akhil/Documents/project/MWDDS_data/T1/50/all/Problem.dat_50_50_8.txt :730
+H2 :  5.860   61   /home/akhil/Documents/project/MWDDS_data/T1/50/all/Problem.dat_50_50_9.txt :696   737.600000
+
+
+float	PPh =0.9;
+
+
+//main
+float init_pop_prob=0.1; 
+//Genetic
+int	pop_size=200;
+int	MAX_GEN=10000;
+float	Pc=0.9;
+float  prob_select=0.8;
+float  Pm=0.01;
+
+float perc_value=0.3;
+int similar_set_max_size=20;
+int unicon=3;
+int k_points=3; 3-point crossover
+
+H2 :  822.795   822   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11189
+H2 :  986.090   1808   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10933
+H2 :  868.905   2676   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11272
+H2 :  885.424   3561   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_3.txt :10865
+H2 :  881.855   4442   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_4.txt :10994
+H2 :  836.186   5278   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_5.txt :10524
+H2 :  903.061   6181   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_6.txt :11070
+H2 :  892.620   7073   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_7.txt :10801
+H2 :  939.268   8012   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_8.txt :10594
+H2 :  977.193   8989   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_9.txt :11164   10940.600000 (best then ABC and IWO)
+
+
+H2 :  721.007   721   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_2000_0.txt :7979
+H2 :  782.685   1503   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_2000_1.txt :8008
+H2 :  669.833   2172   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_2000_2.txt :7960
+H2 :  697.151   2869   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_2000_3.txt :7915
+H2 :  677.245   3546   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_2000_4.txt :7960
+H2 :  752.280   4298   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_2000_5.txt :7795
+H2 :  731.599   5029   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_2000_6.txt :8149
+H2 :  765.805   5794   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_2000_7.txt :8104
+H2 :  742.799   6536   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_2000_8.txt :8084
+H2 :  719.761   719   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_2000_9.txt :8071     8002.5
+
+
+
+
+H2 :  771.962   771   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11189
+H2 :  938.758   1709   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10933
+H2 :  809.171   2518   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11272
+H2 :  830.975   3348   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_3.txt :10865
+H2 :  819.290   4167   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_4.txt :10994
+H2 :  790.980   4957   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_5.txt :10524
+H2 :  847.397   5804   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_6.txt :11070
+H2 :  826.428   6630   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_7.txt :10801
+
+H2 :  432.802   432   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_0.txt :2489
+H2 :  435.297   867   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_1.txt :2540
+H2 :  460.738   1327   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_2.txt :2572
+H2 :  424.174   1751   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_3.txt :2466
+H2 :  426.514   2177   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_4.txt :2469
+H2 :  402.881   2579   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_5.txt :2445
+H2 :  449.438   3028   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_6.txt :2463
+H2 :  472.998   3500   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_7.txt :2417
+H2 :  448.708   3948   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_8.txt :2555
+H2 :  446.006   4394   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_9.txt :2522   2493.800000
+H1: 381.915   381   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_0.txt :2489
+H1: 380.264   761   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_1.txt :2540
+H1: 401.932   1162   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_2.txt :2572
+H1: 376.514   1538   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_3.txt :2466
+H1: 365.192   1903   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_4.txt :2469
+H1: 331.973   2234   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_5.txt :2445
+H1: 383.914   2617   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_6.txt :2463
+H3 :  529.390   529   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_0.txt :2502
+H3 :  502.238   1031   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_1.txt :2492
+H3 :  472.831   1503   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_2.txt :2593
+H3 :  477.603   1980   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_3.txt :2444
+H3 :  424.630   2404   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_4.txt :2458
+H3 :  445.428   2849   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_5.txt :2433
+H3 :  457.203   3306   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_6.txt :2499
+H3 :  548.186   3854   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_7.txt :2429
+H3 :  434.397   4288   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_8.txt :2535
+H3 :  484.137   4772   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_9.txt :2551   2493.600000
+H4 :  456.775   456   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_0.txt :2489
+H4 :  474.217   930   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_1.txt :2540
+H4 :  480.473   1410   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_2.txt :2572
+H4 :  460.310   1870   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_3.txt :2466
+H4 :  481.181   2351   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_4.txt :2469
+H2 :  1522.891   1522   /home/akhil/Documents/project/MWDDS_data/T1/1000/all/Problem.dat_1000_1000_0.txt :14629
+H2 :  1487.179   3009   /home/akhil/Documents/project/MWDDS_data/T1/1000/all/Problem.dat_1000_1000_1.txt :14943
+H2 :  1637.707   4646   /home/akhil/Documents/project/MWDDS_data/T1/1000/all/Problem.dat_1000_1000_2.txt :15123
+H2 :  1671.551   6317   /home/akhil/Documents/project/MWDDS_data/T1/1000/all/Problem.dat_1000_1000_3.txt :14776
+H2 :  1722.716   8039   /home/akhil/Documents/project/MWDDS_data/T1/1000/all/Problem.dat_1000_1000_4.txt :14667
+H2 :  1650.965   9689   /home/akhil/Documents/project/MWDDS_data/T1/1000/all/Problem.dat_1000_1000_5.txt :14697
+H2 :  1712.524   11401   /home/akhil/Documents/project/MWDDS_data/T1/1000/all/Problem.dat_1000_1000_6.txt :14765
+H2 :  1652.353   13053   /home/akhil/Documents/project/MWDDS_data/T1/1000/all/Problem.dat_1000_1000_7.txt :14434
+H2 :  1579.322   1579   /home/akhil/Documents/project/MWDDS_data/T1/1000/all/Problem.dat_1000_1000_8.txt :14627
+H2 :  1547.169   3126   /home/akhil/Documents/project/MWDDS_data/T1/1000/all/Problem.dat_1000_1000_9.txt :14482
+H2 :  860.450   860   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11193
+H2 :  830.954   830   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11189
+H2 :  810.795   810   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11189
+H2 :  903.539   903   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10944
+H2 :  818.428   818   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11189
+H2 :  959.698   1777   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10933
+H2 :  842.093   2619   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11272
+H2 :  544.744   544   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_0.txt :2448
+H2 :  518.915   1062   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_1.txt :2534
+H2 :  547.589   1609   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_2.txt :2639
+H2 :  654.815   2263   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_3.txt :2444
+H2 :  511.538   2774   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_4.txt :2458
+H2 :  490.304   3264   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_5.txt :2451
+H2 :  569.166   3833   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_6.txt :2473
+H2 :  547.507   4380   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_7.txt :2438
+H2 :  574.654   4954   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_8.txt :2548
+H2 :  646.492   5600   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_9.txt :2573   2500.600000
+H2 :  478.244   478   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_0.txt :2508
+H2 :  840.452   840   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11194
+H2 :  436.915   436   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_0.txt :2496
+H2 :  864.533   864   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11195
+H2 :  886.044   886   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11195
+H2 :  863.078   863   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11195
+H2 :  859.358   859   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11193
+H2 :  943.756   1802   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10933
+H2 :  870.643   2672   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11276
+H2 :  840.668   3512   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_3.txt :10865
+H2 :  934.011   4446   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_4.txt :11007
+H2 :  802.979   5248   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_5.txt :10539
+H2 :  842.914   842   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11193
+H2 :  856.644   856   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11195
+H2 :  806.796   806   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11195
+H2 :  817.213   817   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11195
+H2 :  884.027   884   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11195
+H2 :  850.205   850   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11195
+H2 :  841.100   841   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11195
+H2 :  837.875   837   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11195
+H2 :  859.428   859   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11195
+H2 :  1096.045   1096   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11195
+H2 :  605.975   605   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_0.txt :2457
+H2 :  638.641   638   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_0.txt :2479
+H2 :  144.208   144   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11301
+H2 :  271.281   271   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11265
+H2 :  577.066   848   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_0.txt :2567
+H2 :  803.948   803   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11193
+H2 :  817.993   817   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11189
+H2 :  475.254   1292   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_10000_0.txt :2519
+H2 :  845.088   845   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11189
+H2 :  996.915   1841   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_1.txt :10933
+H2 :  866.827   2707   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_2.txt :11272
+H2 :  880.914   3587   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_3.txt :10865
+H2 :  823.465   4410   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_4.txt :10994
+H2 :  772.226   5182   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_5.txt :10524
+H2 :  897.301   6079   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_6.txt :11070
+H2 :  871.388   6950   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_7.txt :10801
+H2 :  925.493   7875   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_8.txt :10594
+H2 :  954.211   8829   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_9.txt :11164   10940.600000
+H2 :  858.741   9687   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_2000_0.txt :8019
+H2 :  758.489   10445   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_2000_1.txt :8003
+H2 :  710.996   11155   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_2000_2.txt :7967
+H2 :  777.474   11932   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_2000_3.txt :7936
+H2 :  779.754   12711   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_2000_4.txt :7932
+H2 :  751.208   13462   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_2000_5.txt :7791
+H2 :  23.039   23   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_250_0.txt :2979
+H2 :  30.934   53   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_250_1.txt :2703
+H2 :  37.539   90   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_250_2.txt :2784
+H2 :  41.988   131   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_250_3.txt :2766
+H2 :  38.074   169   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_250_4.txt :2739
+H2 :  25.071   194   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_250_5.txt :2635
+H2 :  41.341   235   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_250_6.txt :2672
+H2 :  26.056   261   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_250_7.txt :2750
+H2 :  32.809   293   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_250_8.txt :2654
+H2 :  45.857   338   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_250_9.txt :2798   2748.000000
+H2 :  25.907   363   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_500_0.txt :2016
+H2 :  30.907   393   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_500_1.txt :1847
+H2 :  23.620   416   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_500_2.txt :2008
+H2 :  26.501   442   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_500_3.txt :1980
+H2 :  30.055   472   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_500_4.txt :1951
+H2 :  33.260   505   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_500_5.txt :1922
+H2 :  25.132   530   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_500_6.txt :1911
+H2 :  24.324   554   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_500_7.txt :2027
+H2 :  23.966   577   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_500_8.txt :1977
+H2 :  28.556   605   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_500_9.txt :1953   1959.200000
+H2 :  23.772   628   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_3000_0.txt :518
+H2 :  25.470   653   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_3000_1.txt :515
+H2 :  22.207   675   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_3000_2.txt :545
+H2 :  25.696   700   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_3000_3.txt :528
+H2 :  29.137   729   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_3000_4.txt :520
+H2 :  23.739   752   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_3000_5.txt :506
+H2 :  22.024   774   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_3000_6.txt :513
+H2 :  26.799   800   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_3000_7.txt :528
+H2 :  24.860   824   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_3000_8.txt :501
+H2 :  25.394   849   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_3000_9.txt :571   524.500000
+H2 :  35.608   35   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_0.txt :558
+H2 :  38.677   73   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_1.txt :430
+H2 :  40.110   113   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_2.txt :458
+H2 :  39.735   152   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_3.txt :455
+H2 :  31.108   183   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_4.txt :489
+H2 :  33.375   216   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_5.txt :417
+H2 :  31.478   247   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_6.txt :447
+H2 :  31.436   278   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_7.txt :478
+H2 :  31.437   309   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_8.txt :443
+H2 :  41.970   350   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_9.txt :491   466.600000
+H2 :  22.850   372   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_0.txt :839
+H2 :  32.767   404   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_1.txt :680
+H2 :  27.744   431   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_2.txt :802
+H2 :  26.084   457   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_3.txt :741
+H2 :  23.964   480   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_4.txt :745
+H2 :  26.600   506   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_5.txt :714
+H2 :  26.060   532   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_6.txt :789
+H2 :  28.847   560   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_7.txt :754
+H2 :  29.384   589   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_8.txt :772
+H2 :  24.508   613   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_9.txt :878   771.400000
+H2 :  22.872   635   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_0.txt :1183
+H2 :  23.819   658   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_1.txt :952
+H2 :  30.045   688   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_2.txt :973
+H2 :  26.281   714   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_3.txt :1085
+H2 :  31.235   745   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_4.txt :1087
+H2 :  21.267   766   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_5.txt :1055
+H2 :  26.958   792   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_6.txt :1038
+H2 :  24.164   816   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_7.txt :1076
+H2 :  23.365   839   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_8.txt :1068
+H2 :  24.312   863   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_9.txt :1242   1075.900000
+H2 :  32.063   895   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_0.txt :1450
+H2 :  23.635   918   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_1.txt :1308
+H2 :  24.902   942   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_2.txt :1229
+H2 :  25.252   967   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_3.txt :1332
+H2 :  25.794   992   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_4.txt :1270
+H2 :  22.596   1014   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_5.txt :1315
+H2 :  21.701   1035   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_6.txt :1374
+H2 :  25.233   1060   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_7.txt :1231
+H2 :  30.161   1090   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_8.txt :1311
+H2 :  23.563   1113   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_9.txt :1670   1349.000000
+H2 :  24.234   1137   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_0.txt :2381
+H2 :  23.128   1160   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_1.txt :2436
+H2 :  26.462   1186   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_2.txt :1735
+H2 :  25.919   1211   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_3.txt :2322
+H2 :  23.431   1234   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_4.txt :2806
+H2 :  25.876   1259   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_5.txt :1822
+H2 :  26.329   1285   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_6.txt :1885
+H2 :  26.048   1311   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_7.txt :2237
+H2 :  24.107   1335   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_8.txt :1912
+H2 :  22.587   1357   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_9.txt :2580   2211.600000
+H2 :  26.857   26   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_0.txt :2900
+H2 :  31.140   57   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_1.txt :2410
+H2 :  27.032   84   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_2.txt :2518
+H2 :  29.680   113   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_3.txt :2719
+H2 :  27.108   140   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_4.txt :2635
+H2 :  25.131   165   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_5.txt :2750
+H2 :  24.585   189   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_6.txt :3141
+H2 :  27.114   216   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_7.txt :3173
+H2 :  28.734   244   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_8.txt :2529
+H2 :  26.809   270   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_9.txt :3739   2851.400000
+H2 :  140.104   140   /home/akhil/Documents/project/MWDDS_data/UDG/500/200/graphS0N500.txt :392
+H2 :  155.387   295   /home/akhil/Documents/project/MWDDS_data/UDG/500/200/graphS1N500.txt :335
+H2 :  162.053   457   /home/akhil/Documents/project/MWDDS_data/UDG/500/200/graphS2N500.txt :330
+H2 :  141.056   598   /home/akhil/Documents/project/MWDDS_data/UDG/500/200/graphS3N500.txt :345
+H2 :  144.642   742   /home/akhil/Documents/project/MWDDS_data/UDG/500/200/graphS4N500.txt :321
+H2 :  160.876   902   /home/akhil/Documents/project/MWDDS_data/UDG/500/200/graphS5N500.txt :364
+H2 :  151.361   1053   /home/akhil/Documents/project/MWDDS_data/UDG/500/200/graphS6N500.txt :405
+H2 :  151.580   1204   /home/akhil/Documents/project/MWDDS_data/UDG/500/200/graphS7N500.txt :371
+H2 :  153.607   1357   /home/akhil/Documents/project/MWDDS_data/UDG/500/200/graphS8N500.txt :340
+H2 :  158.098   1515   /home/akhil/Documents/project/MWDDS_data/UDG/500/200/graphS9N500.txt :356   355.900000
+H2 :  621.246   621   /home/akhil/Documents/project/MWDDS_data/UDG/1000/150/graphS0N1000.txt :641
+H2 :  644.473   1265   /home/akhil/Documents/project/MWDDS_data/UDG/1000/150/graphS1N1000.txt :628
+H2 :  641.324   1906   /home/akhil/Documents/project/MWDDS_data/UDG/1000/150/graphS2N1000.txt :567
+H2 :  615.354   2521   /home/akhil/Documents/project/MWDDS_data/UDG/1000/150/graphS3N1000.txt :639
+H2 :  648.066   3169   /home/akhil/Documents/project/MWDDS_data/UDG/1000/150/graphS4N1000.txt :620
+H2 :  624.581   3793   /home/akhil/Documents/project/MWDDS_data/UDG/1000/150/graphS5N1000.txt :733
+H2 :  618.968   4411   /home/akhil/Documents/project/MWDDS_data/UDG/1000/150/graphS6N1000.txt :656
+H2 :  614.676   5025   /home/akhil/Documents/project/MWDDS_data/UDG/1000/150/graphS7N1000.txt :637
+H2 :  595.077   5620   /home/akhil/Documents/project/MWDDS_data/UDG/1000/150/graphS8N1000.txt :504
+H2 :  628.211   6248   /home/akhil/Documents/project/MWDDS_data/UDG/1000/150/graphS9N1000.txt :575   620.000000
+H2 :  138.993   138   /home/akhil/Documents/project/MWDDS_data/UDG/500/150/graphS0N500.txt :874
+H2 :  134.334   272   /home/akhil/Documents/project/MWDDS_data/UDG/500/150/graphS1N500.txt :781
+H2 :  133.294   405   /home/akhil/Documents/project/MWDDS_data/UDG/500/150/graphS2N500.txt :796
+H2 :  135.358   540   /home/akhil/Documents/project/MWDDS_data/UDG/500/150/graphS3N500.txt :840
+H2 :  137.839   677   /home/akhil/Documents/project/MWDDS_data/UDG/500/150/graphS4N500.txt :852
+H2 :  133.752   810   /home/akhil/Documents/project/MWDDS_data/UDG/500/150/graphS5N500.txt :757
+H2 :  148.269   958   /home/akhil/Documents/project/MWDDS_data/UDG/500/150/graphS6N500.txt :768
+H2 :  144.773   1102   /home/akhil/Documents/project/MWDDS_data/UDG/500/150/graphS7N500.txt :886
+H2 :  155.358   1257   /home/akhil/Documents/project/MWDDS_data/UDG/500/150/graphS8N500.txt :758
+H2 :  154.636   1411   /home/akhil/Documents/project/MWDDS_data/UDG/500/150/graphS9N500.txt :836   814.800000
+H2 :  806.071   806   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11195
+H2 :  806.568   806   /home/akhil/Documents/project/MWDDS_data/T1/800/all/Problem.dat_800_1000_0.txt :11189
+H2 :  22.596   22   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_3000_0.txt :514
+H2 :  20.975   20   /home/akhil/Documents/project/MWDDS_data/T1/200/all/Problem.dat_200_3000_0.txt :514

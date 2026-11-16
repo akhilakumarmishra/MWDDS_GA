@@ -1,0 +1,310 @@
+H1 :  242   242   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_0.txt :4411
+H1 :  256   498   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_1.txt :4495
+H1 :  263   761   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_2.txt :4653
+H1 :  249   1010   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_3.txt :4554
+H1 :  252   1262   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_4.txt :4698
+H1 :  271   1533   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_5.txt :4743
+H1 :  248   1781   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_6.txt :4494
+H1 :  254   2035   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_7.txt :4454
+H1 :  256   2291   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_8.txt :4724
+H1 :  243   2534   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_9.txt :4801
+H1 :  227   2761   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_0.txt :4036
+H1 :  227   2988   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_1.txt :3783
+H1 :  234   3222   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_2.txt :3954
+H1 :  236   3458   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_3.txt :3959
+H1 :  228   3686   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_4.txt :3922
+H1 :  224   3910   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_5.txt :3928
+H1 :  222   4132   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_6.txt :3797
+H1 :  227   4359   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_7.txt :3931
+H1 :  225   4584   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_8.txt :3886
+H1 :  240   4824   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_9.txt :4162
+H1 :  192   5016   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_0.txt :3490
+H1 :  204   5220   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_1.txt :3223
+H1 :  195   5415   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_2.txt :3445
+H1 :  199   5614   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_3.txt :3449
+H1 :  186   5800   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_4.txt :3265
+H1 :  194   5994   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_5.txt :3316
+H1 :  192   6186   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_6.txt :3352
+H1 :  191   6377   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_7.txt :3336
+H1 :  190   6567   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_8.txt :3335
+H1 :  186   6753   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_9.txt :3435
+H1 :  160   6913   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_0.txt :2915
+H1 :  156   7069   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_1.txt :2720
+H1 :  164   7233   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_2.txt :2854
+H1 :  167   7400   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_3.txt :2984
+H1 :  172   7572   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_4.txt :2959
+H1 :  166   7738   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_5.txt :2854
+H1 :  162   7900   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_6.txt :2758
+H1 :  150   8050   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_7.txt :2782
+H1 :  154   8204   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_8.txt :2850
+H1 :  171   171   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_9.txt :3029
+H1 :  108   279   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_0.txt :2049
+H1 :  105   384   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_1.txt :1887
+H1 :  99   483   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_2.txt :2032
+H1 :  96   579   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_3.txt :1985
+H1 :  103   682   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_4.txt :2006
+H1 :  104   786   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_5.txt :1961
+H1 :  104   890   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_6.txt :1987
+H1 :  103   993   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_7.txt :1978
+H1 :  106   1099   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_8.txt :1938
+H1 :  98   1197   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_9.txt :2004
+H1 :  76   1273   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_0.txt :1593
+H1 :  71   1344   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_1.txt :1580
+H1 :  76   1420   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_2.txt :1621
+H1 :  77   1497   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_3.txt :1579
+H1 :  75   1572   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_4.txt :1651
+H1 :  77   1649   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_5.txt :1570
+H1 :  78   1727   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_6.txt :1586
+H1 :  82   1809   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_7.txt :1560
+H1 :  70   1879   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_8.txt :1571
+H1 :  74   1953   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_9.txt :1666
+H1 :  48   2001   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_0.txt :1168
+H1 :  51   2052   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_1.txt :1141
+H1 :  48   2100   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_2.txt :1223
+H1 :  49   2149   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_3.txt :1191
+H1 :  45   2194   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_4.txt :1181
+H1 :  46   2240   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_5.txt :1126
+H1 :  48   2288   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_6.txt :1127
+H1 :  46   2334   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_7.txt :1108
+H1 :  49   2383   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_8.txt :1174
+H1 :  46   2429   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_9.txt :1231
+
+
+
+
+
+
+
+
+
+
+H2 :  237   237   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_0.txt :4411
+H2 :  253   253   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_1.txt :4485
+H2 :  263   516   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_2.txt :4733
+H2 :  253   769   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_3.txt :4594
+H2 :  243   1012   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_4.txt :4694
+H2 :  265   1277   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_5.txt :4709
+H2 :  252   1529   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_6.txt :4517
+H2 :  249   1778   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_7.txt :4470
+H2 :  255   2033   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_8.txt :4724
+H2 :  240   2273   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_9.txt :4808
+H2 :  230   2503   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_0.txt :4002
+H2 :  215   2718   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_1.txt :3805
+H2 :  233   2951   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_2.txt :3943
+H2 :  230   3181   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_3.txt :4047
+H2 :  212   3393   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_4.txt :3941
+H2 :  226   3619   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_5.txt :3940
+H2 :  219   3838   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_6.txt :3788
+H2 :  227   4065   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_7.txt :3920
+H2 :  229   4294   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_8.txt :3921
+H2 :  235   4529   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_9.txt :4121
+H2 :  199   4728   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_0.txt :3458
+H2 :  199   4927   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_1.txt :3262
+H2 :  196   5123   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_2.txt :3500
+H2 :  187   5310   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_3.txt :3384
+H2 :  198   5508   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_4.txt :3292
+H2 :  188   5696   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_5.txt :3326
+H2 :  192   5888   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_6.txt :3359
+H2 :  193   6081   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_7.txt :3267
+H2 :  195   6276   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_8.txt :3341
+H2 :  185   6461   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_9.txt :3432
+H2 :  160   160   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_0.txt :2867
+H2 :  166   326   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_1.txt :2793
+H2 :  168   494   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_2.txt :2845
+H2 :  168   662   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_3.txt :3009
+H2 :  169   831   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_4.txt :3007
+H2 :  165   996   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_5.txt :2867
+H2 :  160   1156   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_6.txt :2865
+H2 :  153   1309   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_7.txt :2850
+H2 :  153   1462   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_8.txt :2862
+H2 :  177   1639   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_9.txt :3037
+H2 :  105   1744   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_0.txt :2041
+H2 :  100   1844   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_1.txt :1906
+H2 :  100   1944   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_2.txt :2064
+H2 :  99   2043   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_3.txt :1943
+H2 :  94   2137   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_4.txt :1979
+H2 :  109   2246   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_5.txt :1942
+H2 :  98   2344   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_6.txt :1899
+H2 :  105   2449   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_7.txt :1958
+H2 :  114   2563   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_8.txt :1953
+H2 :  106   2669   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_9.txt :2011
+H2 :  75   2744   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_0.txt :1627
+H2 :  81   2825   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_1.txt :1589
+H2 :  74   2899   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_2.txt :1635
+H2 :  72   2971   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_3.txt :1626
+H2 :  72   3043   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_4.txt :1604
+H2 :  82   3125   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_5.txt :1688
+H2 :  75   3200   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_6.txt :1548
+H2 :  75   3275   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_7.txt :1420
+H2 :  82   3357   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_8.txt :1634
+H2 :  78   3435   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_9.txt :1642
+H2 :  48   3483   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_0.txt :1153
+H2 :  53   3536   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_1.txt :1103
+H2 :  48   3584   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_2.txt :1201
+H2 :  50   3634   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_3.txt :1164
+H2 :  50   3684   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_4.txt :1172
+H2 :  52   3736   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_5.txt :1162
+H2 :  46   3782   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_6.txt :1148
+H2 :  46   3828   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_7.txt :1056
+H2 :  52   3880   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_8.txt :1180
+H2 :  51   3931   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_9.txt :1186
+
+
+
+
+
+
+
+
+
+
+H3 :  238   238   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_0.txt :4411
+H3 :  260   498   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_1.txt :4427
+H3 :  263   761   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_2.txt :4732
+H3 :  259   1020   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_3.txt :4603
+H3 :  249   1269   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_4.txt :4703
+H3 :  268   1537   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_5.txt :4697
+H3 :  259   1796   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_6.txt :4527
+H3 :  252   2048   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_7.txt :4467
+H3 :  268   2316   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_8.txt :4714
+H3 :  247   2563   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_9.txt :4740
+H3 :  233   2796   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_0.txt :4013
+H3 :  223   3019   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_1.txt :3793
+H3 :  233   3252   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_2.txt :3947
+H3 :  226   3478   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_3.txt :4011
+H3 :  225   3703   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_4.txt :3894
+H3 :  238   3941   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_5.txt :3869
+H3 :  222   4163   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_6.txt :3770
+H3 :  227   4390   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_7.txt :3935
+H3 :  222   4612   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_8.txt :3903
+H3 :  239   4851   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_9.txt :4140
+H3 :  201   5052   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_0.txt :3434
+H3 :  199   5251   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_1.txt :3274
+H3 :  199   5450   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_2.txt :3451
+H3 :  198   5648   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_3.txt :3433
+H3 :  184   5832   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_4.txt :3330
+H3 :  201   6033   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_5.txt :3336
+H3 :  187   6220   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_6.txt :3332
+H3 :  201   6421   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_7.txt :3383
+H3 :  196   6617   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_8.txt :3329
+H3 :  186   6803   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_9.txt :3396
+H3 :  158   6961   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_0.txt :2891
+H3 :  157   7118   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_1.txt :2811
+H3 :  162   7280   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_2.txt :2830
+H3 :  176   7456   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_3.txt :3027
+H3 :  165   7621   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_4.txt :3022
+H3 :  167   7788   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_5.txt :2847
+H3 :  166   7954   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_6.txt :2756
+H3 :  158   8112   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_7.txt :2852
+H3 :  148   8260   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_8.txt :2824
+H3 :  159   8419   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_9.txt :2955
+H3 :  109   8528   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_0.txt :2062
+H3 :  106   8634   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_1.txt :1917
+H3 :  100   8734   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_2.txt :1948
+H3 :  113   8847   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_3.txt :2036
+H3 :  108   8955   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_4.txt :2097
+H3 :  104   9059   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_5.txt :2030
+H3 :  93   9152   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_6.txt :1902
+H3 :  104   9256   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_7.txt :1984
+H3 :  112   9368   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_8.txt :2014
+H3 :  100   9468   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_9.txt :2068
+H3 :  76   9544   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_0.txt :1623
+H3 :  76   9620   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_1.txt :1559
+H3 :  76   9696   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_2.txt :1638
+H3 :  73   9769   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_3.txt :1665
+H3 :  79   9848   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_4.txt :1599
+H3 :  72   9920   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_5.txt :1608
+H3 :  81   10001   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_6.txt :1618
+H3 :  73   10074   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_7.txt :1497
+H3 :  72   10146   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_8.txt :1605
+H3 :  74   10220   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_9.txt :1620
+H3 :  48   10268   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_0.txt :1150
+H3 :  44   10312   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_1.txt :1124
+H3 :  52   10364   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_2.txt :1241
+H3 :  60   10424   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_3.txt :1212
+H3 :  45   10469   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_4.txt :1159
+H3 :  46   10515   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_5.txt :1147
+H3 :  49   10564   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_6.txt :1134
+H3 :  49   10613   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_7.txt :1130
+H3 :  50   10663   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_8.txt :1178
+H3 :  49   10712   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_9.txt :1191
+
+
+
+
+
+
+
+
+
+
+H4 :  241   241   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_0.txt :4405
+H4 :  255   496   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_1.txt :4470
+H4 :  270   766   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_2.txt :4692
+H4 :  262   1028   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_3.txt :4595
+H4 :  256   1284   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_4.txt :4729
+H4 :  275   1559   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_5.txt :4715
+H4 :  265   1824   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_6.txt :4486
+H4 :  259   2083   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_7.txt :4465
+H4 :  266   2349   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_8.txt :4650
+H4 :  252   2601   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_300_9.txt :4807
+H4 :  241   2842   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_0.txt :4053
+H4 :  235   3077   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_1.txt :3756
+H4 :  235   3312   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_2.txt :3889
+H4 :  235   3547   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_3.txt :4019
+H4 :  230   3777   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_4.txt :3874
+H4 :  237   4014   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_5.txt :3978
+H4 :  235   4249   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_6.txt :3782
+H4 :  227   4476   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_7.txt :3931
+H4 :  230   4706   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_8.txt :3876
+H4 :  241   4947   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_500_9.txt :4066
+H4 :  191   5138   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_0.txt :3442
+H4 :  207   5345   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_1.txt :3263
+H4 :  202   5547   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_2.txt :3422
+H4 :  204   5751   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_3.txt :3465
+H4 :  204   5955   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_4.txt :3278
+H4 :  182   6137   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_5.txt :3247
+H4 :  196   6333   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_6.txt :3293
+H4 :  201   6534   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_7.txt :3339
+H4 :  204   6738   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_8.txt :3358
+H4 :  189   6927   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_750_9.txt :3383
+H4 :  172   7099   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_0.txt :2875
+H4 :  168   7267   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_1.txt :2766
+H4 :  163   7430   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_2.txt :2892
+H4 :  176   7606   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_3.txt :3006
+H4 :  170   7776   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_4.txt :2990
+H4 :  171   7947   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_5.txt :2864
+H4 :  169   8116   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_6.txt :2828
+H4 :  167   8283   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_7.txt :2817
+H4 :  163   8446   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_8.txt :2809
+H4 :  186   8632   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_1000_9.txt :2997
+H4 :  106   8738   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_0.txt :2027
+H4 :  115   8853   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_1.txt :1941
+H4 :  112   8965   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_2.txt :2023
+H4 :  106   9071   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_3.txt :2016
+H4 :  121   9192   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_4.txt :2118
+H4 :  117   9309   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_5.txt :1971
+H4 :  110   9419   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_6.txt :1981
+H4 :  107   9526   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_7.txt :1929
+H4 :  111   9637   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_8.txt :1983
+H4 :  121   9758   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_2000_9.txt :2082
+H4 :  89   9847   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_0.txt :1628
+H4 :  91   9938   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_1.txt :1540
+H4 :  87   10025   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_2.txt :1630
+H4 :  83   10108   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_3.txt :1678
+H4 :  84   10192   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_4.txt :1593
+H4 :  89   10281   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_5.txt :1616
+H4 :  82   10363   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_6.txt :1570
+H4 :  81   10444   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_7.txt :1523
+H4 :  88   10532   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_8.txt :1642
+H4 :  82   10614   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_3000_9.txt :1657
+H4 :  58   10672   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_0.txt :1124
+H4 :  53   10725   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_1.txt :1135
+H4 :  64   10789   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_2.txt :1149
+H4 :  62   10851   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_3.txt :1159
+H4 :  53   10904   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_4.txt :1154
+H4 :  64   10968   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_5.txt :1192
+H4 :  63   11031   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_6.txt :1175
+H4 :  61   11092   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_7.txt :1100
+H4 :  61   11153   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_8.txt :1195
+H4 :  55   11208   /home/akhil/Documents/project/MWDDS_data/T1/300/all/Problem.dat_300_5000_9.txt :1217

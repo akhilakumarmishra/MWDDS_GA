@@ -1,0 +1,270 @@
+H1 :  68   2428   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_0.txt :578
+H1 :  68   2496   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_1.txt :461
+H1 :  68   2564   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_2.txt :468
+H1 :  68   2632   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_3.txt :467
+H1 :  70   2702   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_4.txt :499
+H1 :  67   2769   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_5.txt :443
+H1 :  70   2839   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_6.txt :478
+H1 :  70   2909   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_7.txt :503
+H1 :  68   2977   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_8.txt :466
+H1 :  70   3047   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_9.txt :523
+H1 :  64   3111   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_0.txt :1032
+H1 :  60   3171   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_1.txt :833
+H1 :  65   3236   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_2.txt :982
+H1 :  60   3296   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_3.txt :835
+H1 :  62   3358   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_4.txt :923
+H1 :  60   3418   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_5.txt :882
+H1 :  63   3481   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_6.txt :930
+H1 :  64   3545   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_7.txt :919
+H1 :  62   3607   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_8.txt :901
+H1 :  61   3668   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_9.txt :1073
+H1 :  55   3723   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_0.txt :1492
+H1 :  53   3776   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_1.txt :1344
+H1 :  56   3832   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_2.txt :1380
+H1 :  51   3883   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_3.txt :1516
+H1 :  54   3937   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_4.txt :1474
+H1 :  50   3987   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_5.txt :1379
+H1 :  54   4041   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_6.txt :1378
+H1 :  49   4090   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_7.txt :1482
+H1 :  55   4145   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_8.txt :1350
+H1 :  55   4200   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_9.txt :1583
+H1 :  48   4248   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_0.txt :2196
+H1 :  46   4294   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_1.txt :1801
+H1 :  47   4341   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_2.txt :1954
+H1 :  47   4388   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_3.txt :1918
+H1 :  47   4435   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_4.txt :2027
+H1 :  43   4478   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_5.txt :1739
+H1 :  45   4523   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_6.txt :2016
+H1 :  43   4566   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_7.txt :2011
+H1 :  44   4610   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_8.txt :1944
+H1 :  44   4654   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_9.txt :2521
+H1 :  29   4683   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_0.txt :5989
+H1 :  27   4710   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_1.txt :5700
+H1 :  30   4740   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_2.txt :5016
+H1 :  32   4772   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_3.txt :5595
+H1 :  32   4804   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_4.txt :5886
+H1 :  30   4834   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_5.txt :4824
+H1 :  30   4864   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_6.txt :5271
+H1 :  29   4893   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_7.txt :5087
+H1 :  33   4926   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_8.txt :5313
+H1 :  32   4958   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_9.txt :5286
+H1 :  24   4982   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_0.txt :10004
+H1 :  25   5007   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_1.txt :9562
+H1 :  22   5029   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_2.txt :9347
+H1 :  23   5052   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_3.txt :9803
+H1 :  23   5075   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_4.txt :8659
+H1 :  20   5095   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_5.txt :9191
+H1 :  20   5115   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_6.txt :9487
+H1 :  23   5138   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_7.txt :9430
+H1 :  20   5158   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_8.txt :9333
+H1 :  22   5180   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_9.txt :10908
+
+
+
+
+
+
+
+
+
+
+H2 :  68   2427   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_0.txt :578
+H2 :  68   2495   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_1.txt :461
+H2 :  68   2563   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_2.txt :468
+H2 :  67   2630   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_3.txt :467
+H2 :  69   2699   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_4.txt :499
+H2 :  68   2767   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_5.txt :443
+H2 :  71   2838   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_6.txt :478
+H2 :  70   2908   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_7.txt :503
+H2 :  68   2976   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_8.txt :466
+H2 :  69   3045   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_9.txt :523
+H2 :  63   3108   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_0.txt :1032
+H2 :  60   3168   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_1.txt :833
+H2 :  64   3232   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_2.txt :982
+H2 :  59   3291   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_3.txt :835
+H2 :  62   3353   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_4.txt :923
+H2 :  60   3413   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_5.txt :882
+H2 :  63   3476   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_6.txt :930
+H2 :  65   3541   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_7.txt :919
+H2 :  63   3604   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_8.txt :901
+H2 :  61   3665   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_9.txt :1073
+H2 :  55   3720   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_0.txt :1492
+H2 :  53   3773   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_1.txt :1344
+H2 :  56   3829   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_2.txt :1380
+H2 :  50   3879   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_3.txt :1516
+H2 :  54   3933   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_4.txt :1474
+H2 :  49   3982   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_5.txt :1379
+H2 :  54   4036   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_6.txt :1378
+H2 :  49   4085   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_7.txt :1482
+H2 :  55   4140   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_8.txt :1350
+H2 :  55   4195   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_9.txt :1583
+H2 :  48   4243   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_0.txt :2196
+H2 :  46   4289   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_1.txt :1801
+H2 :  46   4335   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_2.txt :1954
+H2 :  47   4382   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_3.txt :1918
+H2 :  46   4428   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_4.txt :2027
+H2 :  43   4471   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_5.txt :1739
+H2 :  46   4517   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_6.txt :2016
+H2 :  43   4560   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_7.txt :2011
+H2 :  43   4603   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_8.txt :1944
+H2 :  44   4647   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_9.txt :2521
+H2 :  29   4676   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_0.txt :5989
+H2 :  27   4703   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_1.txt :5700
+H2 :  30   4733   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_2.txt :5016
+H2 :  32   4765   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_3.txt :5595
+H2 :  32   4797   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_4.txt :5886
+H2 :  30   4827   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_5.txt :4824
+H2 :  30   4857   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_6.txt :5271
+H2 :  29   4886   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_7.txt :5087
+H2 :  33   4919   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_8.txt :5313
+H2 :  32   4951   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_9.txt :5286
+H2 :  24   4975   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_0.txt :10004
+H2 :  25   5000   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_1.txt :9562
+H2 :  22   5022   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_2.txt :9347
+H2 :  24   5046   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_3.txt :9803
+H2 :  23   5069   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_4.txt :8659
+H2 :  20   5089   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_5.txt :9191
+H2 :  20   5109   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_6.txt :9487
+H2 :  24   5133   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_7.txt :9430
+H2 :  20   5153   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_8.txt :9333
+H2 :  22   5175   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_9.txt :10908
+
+
+
+
+
+
+
+
+
+
+H3 :  70   207   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_0.txt :575
+H3 :  72   279   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_1.txt :450
+H3 :  70   349   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_2.txt :494
+H3 :  68   417   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_3.txt :466
+H3 :  72   489   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_4.txt :509
+H3 :  73   562   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_5.txt :446
+H3 :  73   635   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_6.txt :463
+H3 :  74   709   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_7.txt :507
+H3 :  70   779   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_8.txt :466
+H3 :  72   851   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_9.txt :495
+H3 :  63   914   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_0.txt :999
+H3 :  59   973   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_1.txt :814
+H3 :  64   1037   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_2.txt :980
+H3 :  65   1102   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_3.txt :833
+H3 :  62   1164   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_4.txt :847
+H3 :  64   1228   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_5.txt :807
+H3 :  67   1295   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_6.txt :904
+H3 :  68   1363   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_7.txt :907
+H3 :  64   1427   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_8.txt :917
+H3 :  67   1494   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_9.txt :1071
+H3 :  55   1549   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_0.txt :1718
+H3 :  49   1598   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_1.txt :1302
+H3 :  56   1654   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_2.txt :1417
+H3 :  55   1709   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_3.txt :1468
+H3 :  55   1764   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_4.txt :1542
+H3 :  50   1814   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_5.txt :1421
+H3 :  59   1873   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_6.txt :1348
+H3 :  58   1931   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_7.txt :1472
+H3 :  53   1984   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_8.txt :1393
+H3 :  56   2040   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_9.txt :1667
+H3 :  46   2086   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_0.txt :2283
+H3 :  42   2128   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_1.txt :2204
+H3 :  49   2177   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_2.txt :1843
+H3 :  48   2225   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_3.txt :1893
+H3 :  46   2271   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_4.txt :1794
+H3 :  47   2318   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_5.txt :2103
+H3 :  46   2364   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_6.txt :2128
+H3 :  44   2408   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_7.txt :1993
+H3 :  50   2458   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_8.txt :2091
+H3 :  48   2506   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_9.txt :2399
+H3 :  30   2536   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_0.txt :6047
+H3 :  30   2566   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_1.txt :5517
+H3 :  30   2596   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_2.txt :5210
+H3 :  31   2627   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_3.txt :4486
+H3 :  33   2660   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_4.txt :5474
+H3 :  29   2689   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_5.txt :4862
+H3 :  28   2717   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_6.txt :4555
+H3 :  29   2746   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_7.txt :5139
+H3 :  30   2776   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_8.txt :5016
+H3 :  27   2803   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_9.txt :5102
+H3 :  22   2825   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_0.txt :10312
+H3 :  28   2853   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_1.txt :9150
+H3 :  22   2875   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_2.txt :9581
+H3 :  26   2901   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_3.txt :7985
+H3 :  25   2926   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_4.txt :11144
+H3 :  23   2949   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_5.txt :9295
+H3 :  23   2972   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_6.txt :9533
+H3 :  25   2997   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_7.txt :9161
+H3 :  22   3019   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_8.txt :9411
+H3 :  27   3046   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_9.txt :10383
+
+
+
+
+
+
+
+
+
+
+H4 :  71   71   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_0.txt :579
+H4 :  70   141   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_1.txt :451
+H4 :  69   210   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_2.txt :491
+H4 :  68   278   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_3.txt :472
+H4 :  75   353   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_4.txt :505
+H4 :  73   426   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_5.txt :457
+H4 :  73   499   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_6.txt :472
+H4 :  73   572   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_7.txt :497
+H4 :  69   641   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_8.txt :457
+H4 :  69   710   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_250_9.txt :514
+H4 :  62   772   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_0.txt :967
+H4 :  57   829   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_1.txt :838
+H4 :  66   895   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_2.txt :1007
+H4 :  62   957   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_3.txt :872
+H4 :  67   1024   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_4.txt :908
+H4 :  64   1088   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_5.txt :890
+H4 :  65   1153   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_6.txt :941
+H4 :  64   1217   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_7.txt :936
+H4 :  63   1280   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_8.txt :895
+H4 :  64   1344   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_500_9.txt :1085
+H4 :  60   1404   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_0.txt :1469
+H4 :  58   1462   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_1.txt :1425
+H4 :  58   1520   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_2.txt :1457
+H4 :  50   1570   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_3.txt :1456
+H4 :  54   1624   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_4.txt :1470
+H4 :  53   1677   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_5.txt :1412
+H4 :  58   1735   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_6.txt :1450
+H4 :  49   1784   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_7.txt :1448
+H4 :  56   1840   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_8.txt :1392
+H4 :  54   1894   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_750_9.txt :1668
+H4 :  50   1944   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_0.txt :2289
+H4 :  51   1995   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_1.txt :2096
+H4 :  47   2042   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_2.txt :2116
+H4 :  50   2092   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_3.txt :2147
+H4 :  52   2144   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_4.txt :1878
+H4 :  48   2192   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_5.txt :2024
+H4 :  52   2244   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_6.txt :1799
+H4 :  49   2293   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_7.txt :1963
+H4 :  50   2343   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_8.txt :2107
+H4 :  47   2390   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_1000_9.txt :2393
+H4 :  35   2425   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_0.txt :6064
+H4 :  36   2461   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_1.txt :5690
+H4 :  34   2495   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_2.txt :5323
+H4 :  34   2529   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_3.txt :5111
+H4 :  32   2561   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_4.txt :5473
+H4 :  33   2594   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_5.txt :4412
+H4 :  37   2631   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_6.txt :3961
+H4 :  39   2670   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_7.txt :5312
+H4 :  35   2705   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_8.txt :4675
+H4 :  34   2739   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_2000_9.txt :5855
+H4 :  28   2767   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_0.txt :9061
+H4 :  27   2794   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_1.txt :9756
+H4 :  26   2820   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_2.txt :9626
+H4 :  32   2852   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_3.txt :8896
+H4 :  25   2877   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_4.txt :8153
+H4 :  30   2907   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_5.txt :9304
+H4 :  29   2936   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_6.txt :8880
+H4 :  27   2963   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_7.txt :8730
+H4 :  27   2990   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_8.txt :9186
+H4 :  28   3018   /home/akhil/Documents/project/MWDDS_data/T2/200/all/Problem.dat_200_3000_9.txt :10092

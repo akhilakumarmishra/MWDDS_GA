@@ -1,0 +1,27 @@
+# ---- OS ----
+.DS_Store
+
+# ---- Compiled objects / executables ----
+*.o
+*.out
+mwdds
+# unnamed Linux ELF binaries in src/ (no extension)
+src/me
+src/my
+src/memx
+src/memtest
+
+# ---- Scratch logs / junk (keep research data in result/ and MWDDS_data/) ----
+src/waste.txt
+src/trash.txt
+src/stage2.txt
+src/leak_info.txt
+src/trail_redundant_checkup.txt
+src/result_check_system_a.txt
+src/results_H1.txt
+src/results_H1_new.txt
+src/Untitled*
+src/dustbin/
+
+# ---- Run output (regenerate by running the solver) ----
+src/hit_and_trail*.txt

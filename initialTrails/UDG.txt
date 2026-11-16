@@ -1,0 +1,270 @@
+H1 :  3   3   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS0N50.txt :768
+H1 :  3   6   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS1N50.txt :796
+H1 :  3   9   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS2N50.txt :714
+H1 :  2   11   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS3N50.txt :925
+H1 :  3   14   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS4N50.txt :704
+H1 :  2   16   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS5N50.txt :800
+H1 :  3   19   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS6N50.txt :853
+H1 :  3   22   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS7N50.txt :906
+H1 :  3   25   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS8N50.txt :835
+H1 :  3   28   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS9N50.txt :793
+H1 :  3   31   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS0N50.txt :629
+H1 :  2   33   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS1N50.txt :548
+H1 :  2   35   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS2N50.txt :391
+H1 :  2   37   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS3N50.txt :770
+H1 :  3   40   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS4N50.txt :625
+H1 :  3   43   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS5N50.txt :584
+H1 :  2   45   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS6N50.txt :546
+H1 :  2   47   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS7N50.txt :548
+H1 :  3   50   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS8N50.txt :571
+H1 :  3   53   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS9N50.txt :673
+H1 :  9   62   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS0N100.txt :1120
+H1 :  9   71   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS1N100.txt :1094
+H1 :  9   80   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS2N100.txt :1120
+H1 :  9   89   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS3N100.txt :1136
+H1 :  10   99   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS4N100.txt :1360
+H1 :  8   107   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS5N100.txt :1148
+H1 :  9   116   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS6N100.txt :1023
+H1 :  9   125   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS7N100.txt :1097
+H1 :  8   133   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS8N100.txt :1117
+H1 :  9   142   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS9N100.txt :1220
+H1 :  6   148   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS0N100.txt :614
+H1 :  7   155   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS1N100.txt :723
+H1 :  7   162   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS2N100.txt :825
+H1 :  6   168   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS3N100.txt :772
+H1 :  7   175   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS4N100.txt :828
+H1 :  7   182   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS5N100.txt :776
+H1 :  7   189   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS6N100.txt :800
+H1 :  6   195   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS7N100.txt :712
+H1 :  7   202   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS8N100.txt :746
+H1 :  6   208   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS9N100.txt :709
+H1 :  61   269   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS0N250.txt :1895
+H1 :  56   325   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS1N250.txt :1689
+H1 :  59   384   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS2N250.txt :1668
+H1 :  57   441   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS3N250.txt :1830
+H1 :  57   498   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS4N250.txt :1534
+H1 :  61   559   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS5N250.txt :1713
+H1 :  58   617   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS6N250.txt :1758
+H1 :  59   676   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS7N250.txt :1753
+H1 :  55   731   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS8N250.txt :1592
+H1 :  55   786   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS9N250.txt :1708
+H1 :  41   827   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS0N250.txt :1241
+H1 :  43   870   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS1N250.txt :1340
+H1 :  38   908   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS2N250.txt :1081
+H1 :  39   947   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS3N250.txt :1110
+H1 :  40   987   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS4N250.txt :1305
+H1 :  40   1027   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS5N250.txt :1184
+H1 :  43   1070   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS6N250.txt :1373
+H1 :  38   1108   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS7N250.txt :1242
+H1 :  36   1144   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS8N250.txt :1306
+H1 :  36   1180   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS9N250.txt :1298
+
+
+
+
+
+
+
+
+
+
+H2 :  3   3   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS0N50.txt :768
+H2 :  3   6   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS1N50.txt :796
+H2 :  3   9   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS2N50.txt :714
+H2 :  2   11   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS3N50.txt :925
+H2 :  3   14   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS4N50.txt :704
+H2 :  2   16   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS5N50.txt :800
+H2 :  3   19   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS6N50.txt :853
+H2 :  3   22   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS7N50.txt :906
+H2 :  4   26   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS8N50.txt :835
+H2 :  4   30   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS9N50.txt :793
+H2 :  3   33   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS0N50.txt :629
+H2 :  3   36   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS1N50.txt :548
+H2 :  2   38   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS2N50.txt :391
+H2 :  3   41   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS3N50.txt :770
+H2 :  3   44   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS4N50.txt :625
+H2 :  3   47   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS5N50.txt :584
+H2 :  3   50   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS6N50.txt :546
+H2 :  2   52   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS7N50.txt :548
+H2 :  3   55   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS8N50.txt :571
+H2 :  3   58   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS9N50.txt :673
+H2 :  9   67   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS0N100.txt :1120
+H2 :  9   76   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS1N100.txt :1094
+H2 :  9   85   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS2N100.txt :1120
+H2 :  9   94   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS3N100.txt :1136
+H2 :  9   103   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS4N100.txt :1360
+H2 :  8   111   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS5N100.txt :1148
+H2 :  8   119   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS6N100.txt :1023
+H2 :  9   128   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS7N100.txt :1097
+H2 :  9   137   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS8N100.txt :1117
+H2 :  9   146   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS9N100.txt :1220
+H2 :  6   152   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS0N100.txt :614
+H2 :  7   159   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS1N100.txt :723
+H2 :  7   166   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS2N100.txt :825
+H2 :  7   173   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS3N100.txt :772
+H2 :  7   180   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS4N100.txt :828
+H2 :  7   187   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS5N100.txt :776
+H2 :  6   193   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS6N100.txt :800
+H2 :  6   199   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS7N100.txt :712
+H2 :  7   206   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS8N100.txt :746
+H2 :  6   212   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS9N100.txt :709
+H2 :  62   274   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS0N250.txt :1895
+H2 :  58   332   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS1N250.txt :1689
+H2 :  60   392   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS2N250.txt :1668
+H2 :  57   449   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS3N250.txt :1830
+H2 :  57   506   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS4N250.txt :1534
+H2 :  64   570   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS5N250.txt :1713
+H2 :  61   631   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS6N250.txt :1758
+H2 :  71   702   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS7N250.txt :1753
+H2 :  72   774   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS8N250.txt :1592
+H2 :  57   831   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS9N250.txt :1708
+H2 :  43   874   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS0N250.txt :1241
+H2 :  45   919   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS1N250.txt :1340
+H2 :  39   958   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS2N250.txt :1081
+H2 :  45   1003   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS3N250.txt :1110
+H2 :  51   1054   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS4N250.txt :1305
+H2 :  49   1103   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS5N250.txt :1184
+H2 :  48   1151   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS6N250.txt :1373
+H2 :  41   1192   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS7N250.txt :1242
+H2 :  37   1229   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS8N250.txt :1306
+H2 :  36   1265   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS9N250.txt :1298
+
+
+
+
+
+
+
+
+
+
+H3 :  4   4   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS0N50.txt :768
+H3 :  3   3   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS1N50.txt :784
+H3 :  3   6   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS2N50.txt :714
+H3 :  3   9   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS3N50.txt :920
+H3 :  3   12   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS4N50.txt :684
+H3 :  3   15   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS5N50.txt :800
+H3 :  3   18   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS6N50.txt :857
+H3 :  3   21   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS7N50.txt :911
+H3 :  3   24   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS8N50.txt :835
+H3 :  3   27   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS9N50.txt :789
+H3 :  3   30   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS0N50.txt :641
+H3 :  3   33   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS1N50.txt :548
+H3 :  3   36   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS2N50.txt :391
+H3 :  3   39   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS3N50.txt :740
+H3 :  3   42   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS4N50.txt :608
+H3 :  3   45   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS5N50.txt :579
+H3 :  3   48   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS6N50.txt :560
+H3 :  3   51   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS7N50.txt :568
+H3 :  3   54   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS8N50.txt :560
+H3 :  3   57   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS9N50.txt :674
+H3 :  9   66   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS0N100.txt :1097
+H3 :  9   75   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS1N100.txt :1072
+H3 :  9   84   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS2N100.txt :1167
+H3 :  10   94   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS3N100.txt :1111
+H3 :  10   104   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS4N100.txt :1334
+H3 :  9   113   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS5N100.txt :1098
+H3 :  9   122   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS6N100.txt :1028
+H3 :  10   132   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS7N100.txt :1091
+H3 :  8   140   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS8N100.txt :1074
+H3 :  10   150   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS9N100.txt :1287
+H3 :  7   157   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS0N100.txt :586
+H3 :  7   164   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS1N100.txt :759
+H3 :  7   171   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS2N100.txt :813
+H3 :  6   177   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS3N100.txt :742
+H3 :  7   184   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS4N100.txt :785
+H3 :  7   191   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS5N100.txt :821
+H3 :  7   198   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS6N100.txt :840
+H3 :  7   205   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS7N100.txt :770
+H3 :  7   212   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS8N100.txt :739
+H3 :  7   219   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS9N100.txt :681
+H3 :  62   281   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS0N250.txt :1815
+H3 :  59   340   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS1N250.txt :1682
+H3 :  56   396   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS2N250.txt :1713
+H3 :  60   456   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS3N250.txt :1729
+H3 :  55   511   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS4N250.txt :1760
+H3 :  57   568   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS5N250.txt :1665
+H3 :  62   630   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS6N250.txt :1655
+H3 :  66   696   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS7N250.txt :1836
+H3 :  67   763   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS8N250.txt :1620
+H3 :  58   821   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS9N250.txt :1670
+H3 :  47   868   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS0N250.txt :1236
+H3 :  40   908   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS1N250.txt :1208
+H3 :  40   948   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS2N250.txt :955
+H3 :  41   989   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS3N250.txt :1255
+H3 :  39   1028   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS4N250.txt :1215
+H3 :  37   1065   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS5N250.txt :1179
+H3 :  45   1110   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS6N250.txt :1245
+H3 :  50   1160   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS7N250.txt :1287
+H3 :  45   1205   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS8N250.txt :1290
+H3 :  44   1249   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS9N250.txt :1266
+
+
+
+
+
+
+
+
+
+
+H4 :  4   4   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS0N50.txt :768
+H4 :  3   7   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS1N50.txt :792
+H4 :  3   10   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS2N50.txt :715
+H4 :  3   13   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS3N50.txt :920
+H4 :  3   16   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS4N50.txt :684
+H4 :  3   19   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS5N50.txt :800
+H4 :  3   22   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS6N50.txt :855
+H4 :  3   25   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS7N50.txt :915
+H4 :  3   28   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS8N50.txt :835
+H4 :  3   31   /home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS9N50.txt :789
+H4 :  3   34   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS0N50.txt :629
+H4 :  3   37   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS1N50.txt :548
+H4 :  3   40   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS2N50.txt :391
+H4 :  3   43   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS3N50.txt :748
+H4 :  3   46   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS4N50.txt :617
+H4 :  3   49   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS5N50.txt :570
+H4 :  3   52   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS6N50.txt :535
+H4 :  3   55   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS7N50.txt :523
+H4 :  3   58   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS8N50.txt :595
+H4 :  3   61   /home/akhil/Documents/project/MWDDS_data/UDG/50/200/graphS9N50.txt :673
+H4 :  9   70   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS0N100.txt :1100
+H4 :  9   79   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS1N100.txt :1067
+H4 :  10   89   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS2N100.txt :1172
+H4 :  10   99   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS3N100.txt :1156
+H4 :  10   109   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS4N100.txt :1319
+H4 :  9   118   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS5N100.txt :1159
+H4 :  9   127   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS6N100.txt :991
+H4 :  10   137   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS7N100.txt :1162
+H4 :  9   146   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS8N100.txt :1142
+H4 :  9   155   /home/akhil/Documents/project/MWDDS_data/UDG/100/150/graphS9N100.txt :1248
+H4 :  7   162   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS0N100.txt :620
+H4 :  8   170   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS1N100.txt :723
+H4 :  7   177   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS2N100.txt :779
+H4 :  7   184   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS3N100.txt :731
+H4 :  8   192   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS4N100.txt :724
+H4 :  8   200   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS5N100.txt :795
+H4 :  7   207   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS6N100.txt :683
+H4 :  7   214   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS7N100.txt :710
+H4 :  8   222   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS8N100.txt :722
+H4 :  7   229   /home/akhil/Documents/project/MWDDS_data/UDG/100/200/graphS9N100.txt :725
+H4 :  68   297   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS0N250.txt :1915
+H4 :  66   363   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS1N250.txt :1534
+H4 :  64   427   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS2N250.txt :1633
+H4 :  67   494   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS3N250.txt :1846
+H4 :  67   561   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS4N250.txt :1624
+H4 :  64   625   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS5N250.txt :1676
+H4 :  65   690   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS6N250.txt :1788
+H4 :  70   760   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS7N250.txt :1795
+H4 :  69   829   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS8N250.txt :1572
+H4 :  63   892   /home/akhil/Documents/project/MWDDS_data/UDG/250/150/graphS9N250.txt :1665
+H4 :  48   940   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS0N250.txt :1336
+H4 :  47   987   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS1N250.txt :1221
+H4 :  46   1033   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS2N250.txt :1280
+H4 :  41   1074   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS3N250.txt :1142
+H4 :  45   1119   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS4N250.txt :1295
+H4 :  46   1165   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS5N250.txt :1310
+H4 :  48   1213   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS6N250.txt :1257
+H4 :  46   1259   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS7N250.txt :1198
+H4 :  46   1305   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS8N250.txt :1257
+H4 :  49   1354   /home/akhil/Documents/project/MWDDS_data/UDG/250/200/graphS9N250.txt :1105

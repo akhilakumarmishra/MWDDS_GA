@@ -1,0 +1,24 @@
+First line: Name (Nodes:)
+*
+Second line: Number represents the Number of nodes in a graph.
+**
+Third line is an empty line.
+***
+Fourth line: Name (Node Weights:).
+**** 
+From fifth line onwards node-number and its weight is mentioned. 
+  In the form of first column represents NODE_NUMBER and second column represents NODE_WEIGHT.
+*****
+After that a Name "Nodes connection" represents the matrix formate of directed graph from the next line onwards.
+  Then a matrix for the directed graph. 
+******
+Ex matrix: 
+            a b c
+         a  0 0 1
+         b  1 0 0
+         c  0 1 0
+
+In the example, a->c has a directed edge, a->b has no connection but b->a has a directed edge and c->b has a directed edge.
+
+
+Note: Self loops and parallel edges are not there in any graph.

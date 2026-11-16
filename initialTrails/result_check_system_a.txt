@@ -1,0 +1,351 @@
+H1 :  3   3   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_150_0.txt :2345
+H1 :  3   6   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_150_1.txt :2151
+H1 :  3   9   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_150_2.txt :2253
+H1 :  3   12   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_150_3.txt :2106
+H1 :  3   15   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_150_4.txt :2284
+H1 :  3   18   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_150_5.txt :2233
+H1 :  3   21   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_150_6.txt :2302
+H1 :  3   24   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_150_7.txt :2202
+H1 :  3   27   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_150_8.txt :2259
+H1 :  2   29   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_150_9.txt :2296
+H1 :  3   32   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_250_0.txt :1927
+H1 :  3   35   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_250_1.txt :1680
+H1 :  3   38   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_250_2.txt :1928
+H1 :  3   41   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_250_3.txt :1721
+H1 :  3   44   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_250_4.txt :1736
+H1 :  2   46   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_250_5.txt :1918
+H1 :  3   49   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_250_6.txt :1858
+H1 :  3   52   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_250_7.txt :1855
+H1 :  3   55   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_250_8.txt :1812
+H1 :  3   58   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_250_9.txt :1884
+H1 :  3   61   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_500_0.txt :1223
+H1 :  3   64   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_500_1.txt :1120
+H1 :  3   67   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_500_2.txt :1263
+H1 :  3   70   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_500_3.txt :1233
+H1 :  4   74   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_500_4.txt :1220
+H1 :  3   77   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_500_5.txt :1225
+H1 :  4   81   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_500_6.txt :1302
+H1 :  3   84   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_500_7.txt :1179
+H1 :  3   87   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_500_8.txt :1284
+H1 :  3   90   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_500_9.txt :1237
+H1 :  4   94   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_750_0.txt :943
+H1 :  4   98   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_750_1.txt :965
+H1 :  5   103   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_750_2.txt :981
+H1 :  3   106   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_750_3.txt :963
+H1 :  4   110   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_750_4.txt :875
+H1 :  4   114   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_750_5.txt :915
+H1 :  4   118   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_750_6.txt :988
+H1 :  4   122   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_750_7.txt :940
+H1 :  4   126   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_750_8.txt :1011
+H1 :  5   131   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_750_9.txt :911
+H1 :  4   135   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_1000_0.txt :854
+H1 :  5   140   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_1000_1.txt :706
+H1 :  4   144   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_1000_2.txt :791
+H1 :  5   149   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_1000_3.txt :748
+H1 :  4   153   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_1000_4.txt :733
+H1 :  4   157   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_1000_5.txt :778
+H1 :  5   162   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_1000_6.txt :785
+H1 :  4   166   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_1000_7.txt :757
+H1 :  5   171   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_1000_8.txt :738
+H1 :  5   176   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_1000_9.txt :820
+H1 :  11   187   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_2000_0.txt :440
+H1 :  9   196   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_2000_1.txt :455
+H1 :  11   207   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_2000_2.txt :459
+H1 :  10   217   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_2000_3.txt :464
+H1 :  10   227   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_2000_4.txt :443
+H1 :  9   236   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_2000_5.txt :410
+H1 :  12   248   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_2000_6.txt :447
+H1 :  11   259   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_2000_7.txt :410
+H1 :  10   269   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_2000_8.txt :428
+H1 :  10   279   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_2000_9.txt :429
+H1 :  23   302   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_3000_0.txt :350
+H1 :  20   322   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_3000_1.txt :301
+H1 :  20   342   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_3000_2.txt :302
+H1 :  20   362   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_3000_3.txt :332
+H1 :  22   384   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_3000_4.txt :331
+H1 :  22   406   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_3000_5.txt :303
+H1 :  21   427   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_3000_6.txt :309
+H1 :  20   447   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_3000_7.txt :298
+H1 :  17   464   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_3000_8.txt :344
+H1 :  23   487   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/150/all/Problem.dat_150_3000_9.txt :319
+
+
+
+
+
+
+
+
+
+
+H1 :  1   488   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_100_0.txt :1531
+H1 :  1   489   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_100_1.txt :1480
+H1 :  1   490   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_100_2.txt :1395
+H1 :  1   491   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_100_3.txt :1442
+H1 :  1   492   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_100_4.txt :1546
+H1 :  1   493   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_100_5.txt :1508
+H1 :  1   494   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_100_6.txt :1462
+H1 :  1   495   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_100_7.txt :1456
+H1 :  1   496   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_100_8.txt :1416
+H1 :  1   497   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_100_9.txt :1381
+H1 :  1   498   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_250_0.txt :1016
+H1 :  2   500   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_250_1.txt :973
+H1 :  1   501   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_250_2.txt :988
+H1 :  1   502   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_250_3.txt :926
+H1 :  1   503   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_250_4.txt :944
+H1 :  1   504   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_250_5.txt :995
+H1 :  1   505   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_250_6.txt :1018
+H1 :  1   506   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_250_7.txt :952
+H1 :  1   507   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_250_8.txt :977
+H1 :  1   508   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_250_9.txt :1016
+H1 :  1   509   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_500_0.txt :636
+H1 :  2   511   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_500_1.txt :648
+H1 :  2   513   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_500_2.txt :636
+H1 :  2   515   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_500_3.txt :623
+H1 :  1   516   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_500_4.txt :590
+H1 :  2   518   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_500_5.txt :634
+H1 :  1   519   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_500_6.txt :627
+H1 :  1   520   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_500_7.txt :619
+H1 :  1   521   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_500_8.txt :646
+H1 :  2   523   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_500_9.txt :583
+H1 :  3   526   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_750_0.txt :457
+H1 :  3   529   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_750_1.txt :431
+H1 :  2   531   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_750_2.txt :448
+H1 :  2   533   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_750_3.txt :457
+H1 :  2   535   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_750_4.txt :446
+H1 :  3   538   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_750_5.txt :401
+H1 :  2   540   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_750_6.txt :465
+H1 :  3   543   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_750_7.txt :453
+H1 :  2   545   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_750_8.txt :491
+H1 :  3   548   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_750_9.txt :490
+H1 :  4   552   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_1000_0.txt :387
+H1 :  3   555   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_1000_1.txt :367
+H1 :  3   558   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_1000_2.txt :335
+H1 :  3   561   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_1000_3.txt :395
+H1 :  3   564   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_1000_4.txt :375
+H1 :  3   567   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_1000_5.txt :325
+H1 :  3   570   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_1000_6.txt :380
+H1 :  4   574   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_1000_7.txt :333
+H1 :  3   577   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_1000_8.txt :380
+H1 :  3   580   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_1000_9.txt :384
+H1 :  11   591   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_2000_0.txt :195
+H1 :  11   602   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_2000_1.txt :204
+H1 :  10   612   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_2000_2.txt :197
+H1 :  12   624   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_2000_3.txt :222
+H1 :  11   635   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_2000_4.txt :199
+H1 :  12   647   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_2000_5.txt :183
+H1 :  12   659   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_2000_6.txt :193
+H1 :  11   670   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_2000_7.txt :194
+H1 :  11   681   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_2000_8.txt :207
+H1 :  11   692   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/100/all/Problem.dat_100_2000_9.txt :207
+
+
+
+
+
+
+
+
+
+
+H1 :  0   692   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_50_0.txt :713
+H1 :  0   692   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_50_1.txt :809
+H1 :  0   692   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_50_2.txt :751
+H1 :  0   692   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_50_3.txt :771
+H1 :  0   692   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_50_4.txt :702
+H1 :  0   692   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_50_5.txt :810
+H1 :  0   692   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_50_6.txt :640
+H1 :  0   692   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_50_7.txt :754
+H1 :  0   692   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_50_8.txt :730
+H1 :  0   692   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_50_9.txt :696
+H1 :  0   692   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_100_0.txt :645
+H1 :  0   692   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_100_1.txt :594
+H1 :  0   692   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_100_2.txt :574
+H1 :  0   692   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_100_3.txt :552
+H1 :  0   692   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_100_4.txt :587
+H1 :  0   692   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_100_5.txt :523
+H1 :  0   692   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_100_6.txt :570
+H1 :  0   692   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_100_7.txt :594
+H1 :  0   692   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_100_8.txt :476
+H1 :  0   692   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_100_9.txt :533
+H1 :  0   692   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_250_0.txt :297
+H1 :  0   692   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_250_1.txt :291
+H1 :  0   692   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_250_2.txt :307
+H1 :  0   692   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_250_3.txt :317
+H1 :  0   692   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_250_4.txt :314
+H1 :  0   692   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_250_5.txt :274
+H1 :  0   692   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_250_6.txt :281
+H1 :  0   692   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_250_7.txt :322
+H1 :  0   692   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_250_8.txt :309
+H1 :  0   692   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_250_9.txt :301
+H1 :  1   693   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_500_0.txt :179
+H1 :  1   694   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_500_1.txt :178
+H1 :  1   695   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_500_2.txt :160
+H1 :  1   696   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_500_3.txt :186
+H1 :  1   697   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_500_4.txt :183
+H1 :  1   698   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_500_5.txt :158
+H1 :  1   699   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_500_6.txt :175
+H1 :  1   700   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_500_7.txt :188
+H1 :  1   701   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_500_8.txt :180
+H1 :  1   702   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_500_9.txt :173
+H1 :  2   704   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_750_0.txt :143
+H1 :  2   706   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_750_1.txt :132
+H1 :  1   707   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_750_2.txt :120
+H1 :  2   709   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_750_3.txt :123
+H1 :  2   711   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_750_4.txt :123
+H1 :  2   713   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_750_5.txt :109
+H1 :  2   715   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_750_6.txt :123
+H1 :  2   717   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_750_7.txt :118
+H1 :  2   719   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_750_8.txt :125
+H1 :  2   721   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_750_9.txt :125
+H1 :  3   724   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_1000_0.txt :97
+H1 :  3   727   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_1000_1.txt :103
+H1 :  3   730   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_1000_2.txt :81
+H1 :  3   733   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_1000_3.txt :91
+H1 :  3   736   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_1000_4.txt :98
+H1 :  3   739   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_1000_5.txt :79
+H1 :  3   742   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_1000_6.txt :93
+H1 :  3   745   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_1000_7.txt :104
+H1 :  3   748   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_1000_8.txt :96
+H1 :  3   751   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/50/all/Problem.dat_50_1000_9.txt :90
+
+
+
+
+
+
+
+
+
+
+H1 :  6   757   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_250_0.txt :2996
+H1 :  5   762   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_250_1.txt :2714
+H1 :  6   768   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_250_2.txt :2810
+H1 :  6   774   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_250_3.txt :2785
+H1 :  5   779   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_250_4.txt :2790
+H1 :  5   784   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_250_5.txt :2635
+H1 :  6   790   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_250_6.txt :2698
+H1 :  5   795   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_250_7.txt :2751
+H1 :  6   801   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_250_8.txt :2654
+H1 :  6   807   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_250_9.txt :2801
+H1 :  5   812   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_500_0.txt :2056
+H1 :  6   818   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_500_1.txt :1847
+H1 :  5   823   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_500_2.txt :2063
+H1 :  5   828   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_500_3.txt :2007
+H1 :  6   834   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_500_4.txt :1955
+H1 :  6   840   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_500_5.txt :1939
+H1 :  6   846   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_500_6.txt :1925
+H1 :  5   851   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_500_7.txt :2064
+H1 :  6   857   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_500_8.txt :2014
+H1 :  5   862   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_500_9.txt :1982
+H1 :  6   868   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_750_0.txt :1671
+H1 :  6   874   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_750_1.txt :1524
+H1 :  7   881   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_750_2.txt :1525
+H1 :  6   887   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_750_3.txt :1511
+H1 :  6   893   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_750_4.txt :1619
+H1 :  6   899   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_750_5.txt :1492
+H1 :  6   905   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_750_6.txt :1573
+H1 :  7   912   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_750_7.txt :1499
+H1 :  6   918   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_750_8.txt :1539
+H1 :  6   924   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_750_9.txt :1708
+H1 :  8   932   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_1000_0.txt :1365
+H1 :  7   939   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_1000_1.txt :1298
+H1 :  7   946   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_1000_2.txt :1300
+H1 :  7   953   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_1000_3.txt :1270
+H1 :  7   960   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_1000_4.txt :1260
+H1 :  7   967   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_1000_5.txt :1169
+H1 :  6   973   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_1000_6.txt :1229
+H1 :  7   980   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_1000_7.txt :1203
+H1 :  6   986   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_1000_8.txt :1254
+H1 :  8   994   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_1000_9.txt :1331
+H1 :  11   1005   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_2000_0.txt :745
+H1 :  11   1016   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_2000_1.txt :804
+H1 :  13   1029   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_2000_2.txt :757
+H1 :  10   1039   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_2000_3.txt :768
+H1 :  12   1051   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_2000_4.txt :796
+H1 :  11   1062   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_2000_5.txt :703
+H1 :  12   1074   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_2000_6.txt :756
+H1 :  14   1088   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_2000_7.txt :713
+H1 :  13   1101   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_2000_8.txt :738
+H1 :  11   1112   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_2000_9.txt :801
+H1 :  20   1132   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_3000_0.txt :519
+H1 :  22   1154   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_3000_1.txt :529
+H1 :  18   1172   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_3000_2.txt :556
+H1 :  21   1193   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_3000_3.txt :545
+H1 :  22   1215   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_3000_4.txt :548
+H1 :  20   1235   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_3000_5.txt :546
+H1 :  28   1263   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_3000_6.txt :537
+H1 :  22   1285   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_3000_7.txt :560
+H1 :  22   1307   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_3000_8.txt :520
+H1 :  20   1327   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/200/all/Problem.dat_200_3000_9.txt :595
+
+
+
+
+
+
+
+
+
+
+H1 :  321   1648   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_1000_0.txt :14782
+H1 :  315   1963   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_1000_1.txt :15176
+H1 :  304   2267   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_1000_2.txt :15318
+H1 :  303   2570   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_1000_3.txt :15069
+H1 :  317   2887   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_1000_4.txt :14874
+H1 :  333   3220   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_1000_5.txt :14864
+H1 :  304   3524   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_1000_6.txt :15104
+H1 :  309   3833   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_1000_7.txt :14636
+H1 :  309   4142   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_1000_8.txt :14891
+H1 :  319   4461   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_1000_9.txt :14720
+H1 :  249   4710   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_5000_0.txt :7040
+H1 :  252   4962   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_5000_1.txt :7176
+H1 :  251   5213   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_5000_2.txt :7306
+H1 :  261   5474   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_5000_3.txt :6880
+H1 :  245   5719   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_5000_4.txt :7039
+H1 :  245   5964   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_5000_5.txt :6852
+H1 :  255   6219   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_5000_6.txt :6962
+H1 :  243   6462   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_5000_7.txt :6878
+H1 :  254   6716   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_5000_8.txt :6687
+H1 :  243   6959   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_5000_9.txt :7160
+H1 :  248   7207   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_10000_0.txt :4292
+H1 :  261   7468   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_10000_1.txt :4384
+H1 :  256   7724   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_10000_2.txt :4457
+H1 :  249   7973   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_10000_3.txt :4383
+H1 :  237   8210   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_10000_4.txt :4405
+H1 :  234   8444   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_10000_5.txt :4216
+H1 :  259   8703   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_10000_6.txt :4169
+H1 :  246   8949   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_10000_7.txt :4247
+H1 :  245   9194   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_10000_8.txt :4343
+H1 :  233   9427   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_10000_9.txt :4501
+H1 :  327   9754   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_15000_0.txt :3187
+H1 :  288   10042   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_15000_1.txt :3409
+H1 :  314   10356   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_15000_2.txt :3180
+H1 :  308   10664   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_15000_3.txt :3193
+H1 :  365   11029   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_15000_4.txt :3201
+H1 :  276   11305   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_15000_5.txt :3356
+H1 :  305   11610   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_15000_6.txt :3427
+H1 :  311   11921   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_15000_7.txt :3303
+H1 :  326   12247   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_15000_8.txt :3136
+H1 :  341   12588   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_15000_9.txt :3250
+H1 :  483   13071   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_20000_0.txt :2472
+H1 :  457   13528   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_20000_1.txt :2615
+H1 :  431   13959   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_20000_2.txt :2689
+H1 :  481   14440   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_20000_3.txt :2609
+H1 :  470   14910   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_20000_4.txt :2535
+H1 :  487   15397   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_20000_5.txt :2469
+H1 :  448   15845   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_20000_6.txt :2615
+H1 :  438   16283   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_20000_7.txt :2647
+H1 :  501   16784   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_20000_8.txt :2534
+H1 :  455   17239   /home/alok/akhil/MWDDS_trail/MWDDS_data/T1/1000/all/Problem.dat_1000_20000_9.txt :2692
+
+
+
+
+
+
+
+
+
+
+

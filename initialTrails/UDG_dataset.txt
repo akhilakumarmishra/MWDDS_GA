@@ -1,0 +1,15 @@
+/home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS0N50.txt :772
+/home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS1N50.txt :788
+/home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS2N50.txt :723
+/home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS3N50.txt :922
+/home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS4N50.txt :704
+/home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS5N50.txt :800
+/home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS6N50.txt :880
+/home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS7N50.txt :924
+/home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS8N50.txt :835
+/home/akhil/Documents/project/MWDDS_data/UDG/50/150/graphS9N50.txt :789
+																																																										
+																																																															avg:813.7
+
+
+

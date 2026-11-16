@@ -1,0 +1,10 @@
+/home/akhil/Documents/project/MWDDS_data/T1/50/all/Problem.dat_50_1000_0.txt
+/home/akhil/Documents/project/MWDDS_data/T1/50/all/Problem.dat_50_1000_1.txt
+/home/akhil/Documents/project/MWDDS_data/T1/50/all/Problem.dat_50_1000_2.txt
+/home/akhil/Documents/project/MWDDS_data/T1/50/all/Problem.dat_50_1000_3.txt
+/home/akhil/Documents/project/MWDDS_data/T1/50/all/Problem.dat_50_1000_4.txt
+/home/akhil/Documents/project/MWDDS_data/T1/50/all/Problem.dat_50_1000_5.txt
+/home/akhil/Documents/project/MWDDS_data/T1/50/all/Problem.dat_50_1000_6.txt
+/home/akhil/Documents/project/MWDDS_data/T1/50/all/Problem.dat_50_1000_7.txt
+/home/akhil/Documents/project/MWDDS_data/T1/50/all/Problem.dat_50_1000_8.txt
+/home/akhil/Documents/project/MWDDS_data/T1/50/all/Problem.dat_50_1000_9.txt
